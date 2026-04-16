@@ -1,6 +1,7 @@
 Tarjetas Astrum
 
 ``mermaid
+
 flowchart TB
     A["<b>INICIO</b>"] --> B["Espera 90 segundos"]
     B --> C{"<b>¿Hay internet?</b>"}
