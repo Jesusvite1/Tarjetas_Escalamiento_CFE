@@ -1,6 +1,6 @@
 Tarjetas Astrum
 
-``mermaid
+```mermaid
 
 flowchart TB
     A["<b>INICIO</b>"] --> B["Espera 90 segundos"]
@@ -34,4 +34,5 @@ flowchart TB
 
     classDef paso fill:#fff,stroke:#333,color:#000
     class B,D,F,H,J,K,L,M paso
+```
     ``
